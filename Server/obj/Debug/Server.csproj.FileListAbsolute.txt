@@ -1,0 +1,7 @@
+D:\IT\C#\ITVDN\[ITVDN] WCF Essential\WCFApplication\Server\bin\Debug\Server.exe.config
+D:\IT\C#\ITVDN\[ITVDN] WCF Essential\WCFApplication\Server\bin\Debug\Server.exe
+D:\IT\C#\ITVDN\[ITVDN] WCF Essential\WCFApplication\Server\bin\Debug\Server.pdb
+D:\IT\C#\ITVDN\[ITVDN] WCF Essential\WCFApplication\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\IT\C#\ITVDN\[ITVDN] WCF Essential\WCFApplication\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\IT\C#\ITVDN\[ITVDN] WCF Essential\WCFApplication\Server\obj\Debug\Server.exe
+D:\IT\C#\ITVDN\[ITVDN] WCF Essential\WCFApplication\Server\obj\Debug\Server.pdb
